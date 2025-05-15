@@ -1,0 +1,2190 @@
+{
+    "h1": [
+        {
+            "192.168.3.2:44275": [
+                {
+                    "meta": true,
+                    "start_time": "0",
+                    "stop_time": "120",
+                    "destination_node": "h2"
+                },
+                {
+                    "timestamp": "1744967718.486",
+                    "sending_rate": "13.95"
+                },
+                {
+                    "timestamp": "1744967718.783",
+                    "sending_rate": "9.71"
+                },
+                {
+                    "timestamp": "1744967718.984",
+                    "sending_rate": "9.12"
+                },
+                {
+                    "timestamp": "1744967719.282",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967719.580",
+                    "sending_rate": "9.68"
+                },
+                {
+                    "timestamp": "1744967719.781",
+                    "sending_rate": "9.12"
+                },
+                {
+                    "timestamp": "1744967719.982",
+                    "sending_rate": "9.82"
+                },
+                {
+                    "timestamp": "1744967720.185",
+                    "sending_rate": "9.65"
+                },
+                {
+                    "timestamp": "1744967720.389",
+                    "sending_rate": "9.66"
+                },
+                {
+                    "timestamp": "1744967720.590",
+                    "sending_rate": "9.13"
+                },
+                {
+                    "timestamp": "1744967720.794",
+                    "sending_rate": "9.64"
+                },
+                {
+                    "timestamp": "1744967721.000",
+                    "sending_rate": "9.54"
+                },
+                {
+                    "timestamp": "1744967721.203",
+                    "sending_rate": "9.68"
+                },
+                {
+                    "timestamp": "1744967721.404",
+                    "sending_rate": "9.77"
+                },
+                {
+                    "timestamp": "1744967721.610",
+                    "sending_rate": "9.55"
+                },
+                {
+                    "timestamp": "1744967721.811",
+                    "sending_rate": "9.76"
+                },
+                {
+                    "timestamp": "1744967722.017",
+                    "sending_rate": "8.92"
+                },
+                {
+                    "timestamp": "1744967722.218",
+                    "sending_rate": "9.78"
+                },
+                {
+                    "timestamp": "1744967722.424",
+                    "sending_rate": "9.53"
+                },
+                {
+                    "timestamp": "1744967722.633",
+                    "sending_rate": "9.43"
+                },
+                {
+                    "timestamp": "1744967722.933",
+                    "sending_rate": "9.60"
+                },
+                {
+                    "timestamp": "1744967723.137",
+                    "sending_rate": "9.66"
+                },
+                {
+                    "timestamp": "1744967723.385",
+                    "sending_rate": "7.92"
+                },
+                {
+                    "timestamp": "1744967723.604",
+                    "sending_rate": "8.99"
+                },
+                {
+                    "timestamp": "1744967723.809",
+                    "sending_rate": "9.56"
+                },
+                {
+                    "timestamp": "1744967724.013",
+                    "sending_rate": "9.01"
+                },
+                {
+                    "timestamp": "1744967724.217",
+                    "sending_rate": "9.66"
+                },
+                {
+                    "timestamp": "1744967724.421",
+                    "sending_rate": "9.60"
+                },
+                {
+                    "timestamp": "1744967724.637",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967724.854",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967725.068",
+                    "sending_rate": "9.81"
+                },
+                {
+                    "timestamp": "1744967725.357",
+                    "sending_rate": "10.43"
+                },
+                {
+                    "timestamp": "1744967725.573",
+                    "sending_rate": "9.73"
+                },
+                {
+                    "timestamp": "1744967725.791",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967726.009",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967726.227",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967726.445",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967726.663",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967726.881",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967727.098",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967727.316",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967727.533",
+                    "sending_rate": "9.68"
+                },
+                {
+                    "timestamp": "1744967727.754",
+                    "sending_rate": "8.92"
+                },
+                {
+                    "timestamp": "1744967727.972",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967728.190",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967728.408",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967728.624",
+                    "sending_rate": "9.73"
+                },
+                {
+                    "timestamp": "1744967728.844",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967729.062",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967729.281",
+                    "sending_rate": "9.60"
+                },
+                {
+                    "timestamp": "1744967729.506",
+                    "sending_rate": "9.32"
+                },
+                {
+                    "timestamp": "1744967729.716",
+                    "sending_rate": "9.96"
+                },
+                {
+                    "timestamp": "1744967729.935",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967730.194",
+                    "sending_rate": "7.60"
+                },
+                {
+                    "timestamp": "1744967730.420",
+                    "sending_rate": "9.25"
+                },
+                {
+                    "timestamp": "1744967730.644",
+                    "sending_rate": "9.38"
+                },
+                {
+                    "timestamp": "1744967730.855",
+                    "sending_rate": "9.96"
+                },
+                {
+                    "timestamp": "1744967731.073",
+                    "sending_rate": "9.63"
+                },
+                {
+                    "timestamp": "1744967731.293",
+                    "sending_rate": "9.52"
+                },
+                {
+                    "timestamp": "1744967731.509",
+                    "sending_rate": "9.71"
+                },
+                {
+                    "timestamp": "1744967731.730",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967731.947",
+                    "sending_rate": "9.63"
+                },
+                {
+                    "timestamp": "1744967732.165",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967732.381",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967732.602",
+                    "sending_rate": "8.91"
+                },
+                {
+                    "timestamp": "1744967732.820",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967733.038",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967733.256",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967733.474",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967733.692",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967733.910",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967734.128",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967734.347",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967734.565",
+                    "sending_rate": "9.63"
+                },
+                {
+                    "timestamp": "1744967734.795",
+                    "sending_rate": "9.10"
+                },
+                {
+                    "timestamp": "1744967734.999",
+                    "sending_rate": "9.66"
+                },
+                {
+                    "timestamp": "1744967735.216",
+                    "sending_rate": "9.64"
+                },
+                {
+                    "timestamp": "1744967735.485",
+                    "sending_rate": "7.81"
+                },
+                {
+                    "timestamp": "1744967735.703",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967735.929",
+                    "sending_rate": "9.24"
+                },
+                {
+                    "timestamp": "1744967736.138",
+                    "sending_rate": "10.07"
+                },
+                {
+                    "timestamp": "1744967736.356",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967736.574",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967736.792",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967737.010",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967737.228",
+                    "sending_rate": "9.01"
+                },
+                {
+                    "timestamp": "1744967737.449",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967737.674",
+                    "sending_rate": "9.30"
+                },
+                {
+                    "timestamp": "1744967737.883",
+                    "sending_rate": "10.05"
+                },
+                {
+                    "timestamp": "1744967738.100",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967738.319",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967738.537",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967738.755",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967738.973",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967739.191",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967739.409",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967739.627",
+                    "sending_rate": "9.01"
+                },
+                {
+                    "timestamp": "1744967739.846",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967740.063",
+                    "sending_rate": "9.63"
+                },
+                {
+                    "timestamp": "1744967740.281",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967740.519",
+                    "sending_rate": "8.83"
+                },
+                {
+                    "timestamp": "1744967740.768",
+                    "sending_rate": "8.43"
+                },
+                {
+                    "timestamp": "1744967740.982",
+                    "sending_rate": "9.78"
+                },
+                {
+                    "timestamp": "1744967741.203",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967741.421",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967741.639",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967741.857",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967742.075",
+                    "sending_rate": "9.01"
+                },
+                {
+                    "timestamp": "1744967742.293",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967742.511",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967742.732",
+                    "sending_rate": "9.52"
+                },
+                {
+                    "timestamp": "1744967742.948",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967743.166",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967743.384",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967743.602",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967743.820",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967744.037",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967744.255",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967744.473",
+                    "sending_rate": "9.02"
+                },
+                {
+                    "timestamp": "1744967744.691",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967744.912",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967745.128",
+                    "sending_rate": "9.71"
+                },
+                {
+                    "timestamp": "1744967745.346",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967745.566",
+                    "sending_rate": "9.52"
+                },
+                {
+                    "timestamp": "1744967745.822",
+                    "sending_rate": "8.20"
+                },
+                {
+                    "timestamp": "1744967746.051",
+                    "sending_rate": "9.17"
+                },
+                {
+                    "timestamp": "1744967746.265",
+                    "sending_rate": "9.78"
+                },
+                {
+                    "timestamp": "1744967746.483",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967746.701",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967746.922",
+                    "sending_rate": "8.92"
+                },
+                {
+                    "timestamp": "1744967747.138",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967747.356",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967747.574",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967747.792",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967748.012",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967748.231",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967748.448",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967748.664",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967748.882",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967749.100",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967749.318",
+                    "sending_rate": "9.02"
+                },
+                {
+                    "timestamp": "1744967749.537",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967749.755",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967749.973",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967750.194",
+                    "sending_rate": "9.49"
+                },
+                {
+                    "timestamp": "1744967750.409",
+                    "sending_rate": "9.74"
+                },
+                {
+                    "timestamp": "1744967750.627",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967750.845",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967751.111",
+                    "sending_rate": "7.90"
+                },
+                {
+                    "timestamp": "1744967751.332",
+                    "sending_rate": "9.49"
+                },
+                {
+                    "timestamp": "1744967751.547",
+                    "sending_rate": "9.73"
+                },
+                {
+                    "timestamp": "1744967751.767",
+                    "sending_rate": "8.97"
+                },
+                {
+                    "timestamp": "1744967751.983",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967752.201",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967752.421",
+                    "sending_rate": "9.56"
+                },
+                {
+                    "timestamp": "1744967752.639",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967752.857",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967753.074",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967753.292",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967753.510",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967753.726",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967753.949",
+                    "sending_rate": "9.41"
+                },
+                {
+                    "timestamp": "1744967754.164",
+                    "sending_rate": "9.11"
+                },
+                {
+                    "timestamp": "1744967754.382",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967754.600",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967754.818",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967755.037",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967755.256",
+                    "sending_rate": "9.56"
+                },
+                {
+                    "timestamp": "1744967755.474",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967755.692",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967755.910",
+                    "sending_rate": "9.63"
+                },
+                {
+                    "timestamp": "1744967756.137",
+                    "sending_rate": "9.26"
+                },
+                {
+                    "timestamp": "1744967756.395",
+                    "sending_rate": "8.11"
+                },
+                {
+                    "timestamp": "1744967756.614",
+                    "sending_rate": "9.01"
+                },
+                {
+                    "timestamp": "1744967756.828",
+                    "sending_rate": "9.79"
+                },
+                {
+                    "timestamp": "1744967757.048",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967757.266",
+                    "sending_rate": "9.65"
+                },
+                {
+                    "timestamp": "1744967757.483",
+                    "sending_rate": "9.63"
+                },
+                {
+                    "timestamp": "1744967757.699",
+                    "sending_rate": "9.73"
+                },
+                {
+                    "timestamp": "1744967757.920",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967758.138",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967758.363",
+                    "sending_rate": "9.31"
+                },
+                {
+                    "timestamp": "1744967758.574",
+                    "sending_rate": "9.94"
+                },
+                {
+                    "timestamp": "1744967758.794",
+                    "sending_rate": "8.92"
+                },
+                {
+                    "timestamp": "1744967759.010",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967759.228",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967759.447",
+                    "sending_rate": "9.59"
+                },
+                {
+                    "timestamp": "1744967759.665",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967759.883",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967760.099",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967760.316",
+                    "sending_rate": "9.66"
+                },
+                {
+                    "timestamp": "1744967760.537",
+                    "sending_rate": "9.52"
+                },
+                {
+                    "timestamp": "1744967760.755",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967760.973",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967761.191",
+                    "sending_rate": "9.01"
+                },
+                {
+                    "timestamp": "1744967761.441",
+                    "sending_rate": "8.41"
+                },
+                {
+                    "timestamp": "1744967761.678",
+                    "sending_rate": "8.84"
+                },
+                {
+                    "timestamp": "1744967761.892",
+                    "sending_rate": "9.80"
+                },
+                {
+                    "timestamp": "1744967762.112",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967762.329",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967762.546",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967762.764",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967762.983",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967763.201",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967763.418",
+                    "sending_rate": "9.63"
+                },
+                {
+                    "timestamp": "1744967763.639",
+                    "sending_rate": "8.92"
+                },
+                {
+                    "timestamp": "1744967763.857",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967764.073",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967764.291",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967764.509",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967764.735",
+                    "sending_rate": "9.28"
+                },
+                {
+                    "timestamp": "1744967764.945",
+                    "sending_rate": "9.97"
+                },
+                {
+                    "timestamp": "1744967765.166",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967765.391",
+                    "sending_rate": "9.30"
+                },
+                {
+                    "timestamp": "1744967765.600",
+                    "sending_rate": "10.06"
+                },
+                {
+                    "timestamp": "1744967765.818",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967766.036",
+                    "sending_rate": "9.02"
+                },
+                {
+                    "timestamp": "1744967766.254",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967766.472",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967766.690",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967766.908",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967767.126",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967767.344",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967767.583",
+                    "sending_rate": "8.79"
+                },
+                {
+                    "timestamp": "1744967767.831",
+                    "sending_rate": "8.46"
+                },
+                {
+                    "timestamp": "1744967768.046",
+                    "sending_rate": "9.73"
+                },
+                {
+                    "timestamp": "1744967768.266",
+                    "sending_rate": "9.55"
+                },
+                {
+                    "timestamp": "1744967768.484",
+                    "sending_rate": "9.02"
+                },
+                {
+                    "timestamp": "1744967768.699",
+                    "sending_rate": "9.73"
+                },
+                {
+                    "timestamp": "1744967768.920",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967769.135",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967769.356",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967769.574",
+                    "sending_rate": "9.60"
+                },
+                {
+                    "timestamp": "1744967769.792",
+                    "sending_rate": "9.63"
+                },
+                {
+                    "timestamp": "1744967770.009",
+                    "sending_rate": "9.65"
+                },
+                {
+                    "timestamp": "1744967770.225",
+                    "sending_rate": "9.73"
+                },
+                {
+                    "timestamp": "1744967770.445",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967770.666",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967770.885",
+                    "sending_rate": "8.96"
+                },
+                {
+                    "timestamp": "1744967771.102",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967771.319",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967771.536",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967771.754",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967771.972",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967772.190",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967772.409",
+                    "sending_rate": "9.60"
+                },
+                {
+                    "timestamp": "1744967772.629",
+                    "sending_rate": "9.53"
+                },
+                {
+                    "timestamp": "1744967772.901",
+                    "sending_rate": "7.71"
+                },
+                {
+                    "timestamp": "1744967773.121",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967773.342",
+                    "sending_rate": "8.92"
+                },
+                {
+                    "timestamp": "1744967773.557",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967773.776",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967773.994",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967774.212",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967774.430",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967774.648",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967774.874",
+                    "sending_rate": "9.28"
+                },
+                {
+                    "timestamp": "1744967775.094",
+                    "sending_rate": "9.53"
+                },
+                {
+                    "timestamp": "1744967775.300",
+                    "sending_rate": "10.18"
+                },
+                {
+                    "timestamp": "1744967775.521",
+                    "sending_rate": "9.46"
+                },
+                {
+                    "timestamp": "1744967775.740",
+                    "sending_rate": "9.01"
+                },
+                {
+                    "timestamp": "1744967775.958",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967776.176",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967776.394",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967776.611",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967776.831",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967777.047",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967777.265",
+                    "sending_rate": "9.60"
+                },
+                {
+                    "timestamp": "1744967777.483",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967777.701",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967777.919",
+                    "sending_rate": "9.64"
+                },
+                {
+                    "timestamp": "1744967778.184",
+                    "sending_rate": "7.41"
+                },
+                {
+                    "timestamp": "1744967778.404",
+                    "sending_rate": "9.56"
+                },
+                {
+                    "timestamp": "1744967778.620",
+                    "sending_rate": "9.68"
+                },
+                {
+                    "timestamp": "1744967778.841",
+                    "sending_rate": "9.50"
+                },
+                {
+                    "timestamp": "1744967779.058",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967779.276",
+                    "sending_rate": "9.60"
+                },
+                {
+                    "timestamp": "1744967779.493",
+                    "sending_rate": "9.68"
+                },
+                {
+                    "timestamp": "1744967779.714",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967779.932",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967780.152",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967780.365",
+                    "sending_rate": "9.22"
+                },
+                {
+                    "timestamp": "1744967780.583",
+                    "sending_rate": "9.63"
+                },
+                {
+                    "timestamp": "1744967780.802",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967781.020",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967781.240",
+                    "sending_rate": "9.52"
+                },
+                {
+                    "timestamp": "1744967781.456",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967781.674",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967781.892",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967782.110",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967782.328",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967782.549",
+                    "sending_rate": "9.52"
+                },
+                {
+                    "timestamp": "1744967782.765",
+                    "sending_rate": "9.11"
+                },
+                {
+                    "timestamp": "1744967782.983",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967783.221",
+                    "sending_rate": "8.79"
+                },
+                {
+                    "timestamp": "1744967783.467",
+                    "sending_rate": "8.52"
+                },
+                {
+                    "timestamp": "1744967783.694",
+                    "sending_rate": "9.25"
+                },
+                {
+                    "timestamp": "1744967783.922",
+                    "sending_rate": "9.21"
+                },
+                {
+                    "timestamp": "1744967784.175",
+                    "sending_rate": "10.35"
+                },
+                {
+                    "timestamp": "1744967784.392",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967784.609",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967784.827",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967785.046",
+                    "sending_rate": "9.56"
+                },
+                {
+                    "timestamp": "1744967785.264",
+                    "sending_rate": "9.01"
+                },
+                {
+                    "timestamp": "1744967785.480",
+                    "sending_rate": "9.73"
+                },
+                {
+                    "timestamp": "1744967785.700",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967785.919",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967786.138",
+                    "sending_rate": "9.56"
+                },
+                {
+                    "timestamp": "1744967786.363",
+                    "sending_rate": "9.30"
+                },
+                {
+                    "timestamp": "1744967786.573",
+                    "sending_rate": "10.02"
+                },
+                {
+                    "timestamp": "1744967786.792",
+                    "sending_rate": "9.56"
+                },
+                {
+                    "timestamp": "1744967787.013",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967787.226",
+                    "sending_rate": "9.83"
+                },
+                {
+                    "timestamp": "1744967787.446",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967787.665",
+                    "sending_rate": "9.01"
+                },
+                {
+                    "timestamp": "1744967787.883",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967788.101",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967788.319",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967788.584",
+                    "sending_rate": "7.91"
+                },
+                {
+                    "timestamp": "1744967788.802",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967789.019",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967789.238",
+                    "sending_rate": "9.55"
+                },
+                {
+                    "timestamp": "1744967789.457",
+                    "sending_rate": "9.60"
+                },
+                {
+                    "timestamp": "1744967789.676",
+                    "sending_rate": "9.58"
+                },
+                {
+                    "timestamp": "1744967789.892",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967790.112",
+                    "sending_rate": "8.96"
+                },
+                {
+                    "timestamp": "1744967790.328",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967790.547",
+                    "sending_rate": "9.57"
+                },
+                {
+                    "timestamp": "1744967790.765",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967790.984",
+                    "sending_rate": "9.57"
+                },
+                {
+                    "timestamp": "1744967791.201",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967791.421",
+                    "sending_rate": "9.53"
+                },
+                {
+                    "timestamp": "1744967791.639",
+                    "sending_rate": "9.63"
+                },
+                {
+                    "timestamp": "1744967791.859",
+                    "sending_rate": "9.53"
+                },
+                {
+                    "timestamp": "1744967792.072",
+                    "sending_rate": "9.83"
+                },
+                {
+                    "timestamp": "1744967792.293",
+                    "sending_rate": "9.50"
+                },
+                {
+                    "timestamp": "1744967792.508",
+                    "sending_rate": "9.12"
+                },
+                {
+                    "timestamp": "1744967792.732",
+                    "sending_rate": "9.39"
+                },
+                {
+                    "timestamp": "1744967792.946",
+                    "sending_rate": "9.80"
+                },
+                {
+                    "timestamp": "1744967793.164",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967793.382",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967793.614",
+                    "sending_rate": "9.04"
+                },
+                {
+                    "timestamp": "1744967793.873",
+                    "sending_rate": "8.09"
+                },
+                {
+                    "timestamp": "1744967794.092",
+                    "sending_rate": "9.60"
+                },
+                {
+                    "timestamp": "1744967794.309",
+                    "sending_rate": "9.63"
+                },
+                {
+                    "timestamp": "1744967794.527",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967794.745",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967794.964",
+                    "sending_rate": "9.01"
+                },
+                {
+                    "timestamp": "1744967795.182",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967795.400",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967795.618",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967795.836",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967796.054",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967796.272",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967796.490",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967796.708",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967796.925",
+                    "sending_rate": "9.68"
+                },
+                {
+                    "timestamp": "1744967797.143",
+                    "sending_rate": "9.01"
+                },
+                {
+                    "timestamp": "1744967797.361",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967797.580",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967797.795",
+                    "sending_rate": "9.73"
+                },
+                {
+                    "timestamp": "1744967798.016",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967798.237",
+                    "sending_rate": "9.50"
+                },
+                {
+                    "timestamp": "1744967798.452",
+                    "sending_rate": "9.74"
+                },
+                {
+                    "timestamp": "1744967798.670",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967798.922",
+                    "sending_rate": "8.32"
+                },
+                {
+                    "timestamp": "1744967799.155",
+                    "sending_rate": "9.01"
+                },
+                {
+                    "timestamp": "1744967799.376",
+                    "sending_rate": "9.50"
+                },
+                {
+                    "timestamp": "1744967799.592",
+                    "sending_rate": "9.07"
+                },
+                {
+                    "timestamp": "1744967799.811",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967800.027",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967800.246",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967800.466",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967800.682",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967800.900",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967801.118",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967801.336",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967801.554",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967801.772",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967801.993",
+                    "sending_rate": "8.92"
+                },
+                {
+                    "timestamp": "1744967802.211",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967802.428",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967802.644",
+                    "sending_rate": "9.71"
+                },
+                {
+                    "timestamp": "1744967802.862",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967803.138",
+                    "sending_rate": "9.50"
+                },
+                {
+                    "timestamp": "1744967803.354",
+                    "sending_rate": "9.71"
+                },
+                {
+                    "timestamp": "1744967803.572",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967803.790",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967804.018",
+                    "sending_rate": "9.20"
+                },
+                {
+                    "timestamp": "1744967804.225",
+                    "sending_rate": "10.13"
+                },
+                {
+                    "timestamp": "1744967804.443",
+                    "sending_rate": "9.02"
+                },
+                {
+                    "timestamp": "1744967804.661",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967804.892",
+                    "sending_rate": "9.09"
+                },
+                {
+                    "timestamp": "1744967805.097",
+                    "sending_rate": "10.20"
+                },
+                {
+                    "timestamp": "1744967805.315",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967805.533",
+                    "sending_rate": "9.63"
+                },
+                {
+                    "timestamp": "1744967805.751",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967805.972",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967806.188",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967806.406",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967806.626",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967806.842",
+                    "sending_rate": "9.12"
+                },
+                {
+                    "timestamp": "1744967807.060",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967807.281",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967807.499",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967807.714",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967807.957",
+                    "sending_rate": "8.66"
+                },
+                {
+                    "timestamp": "1744967808.199",
+                    "sending_rate": "8.65"
+                },
+                {
+                    "timestamp": "1744967808.417",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967808.638",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967808.854",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967809.071",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967809.290",
+                    "sending_rate": "9.01"
+                },
+                {
+                    "timestamp": "1744967809.508",
+                    "sending_rate": "9.63"
+                },
+                {
+                    "timestamp": "1744967809.726",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967809.944",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967810.162",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967810.380",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967810.598",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967810.816",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967811.034",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967811.253",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967811.471",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967811.691",
+                    "sending_rate": "8.92"
+                },
+                {
+                    "timestamp": "1744967811.907",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967812.125",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967812.343",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967812.561",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967812.779",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967812.997",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967813.263",
+                    "sending_rate": "7.89"
+                },
+                {
+                    "timestamp": "1744967813.482",
+                    "sending_rate": "9.60"
+                },
+                {
+                    "timestamp": "1744967813.698",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967813.916",
+                    "sending_rate": "9.02"
+                },
+                {
+                    "timestamp": "1744967814.136",
+                    "sending_rate": "9.56"
+                },
+                {
+                    "timestamp": "1744967814.354",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967814.571",
+                    "sending_rate": "9.66"
+                },
+                {
+                    "timestamp": "1744967814.789",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967815.006",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967815.229",
+                    "sending_rate": "9.40"
+                },
+                {
+                    "timestamp": "1744967815.447",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967815.674",
+                    "sending_rate": "9.21"
+                },
+                {
+                    "timestamp": "1744967815.895",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967816.105",
+                    "sending_rate": "10.00"
+                },
+                {
+                    "timestamp": "1744967816.316",
+                    "sending_rate": "9.31"
+                },
+                {
+                    "timestamp": "1744967816.536",
+                    "sending_rate": "9.52"
+                },
+                {
+                    "timestamp": "1744967816.752",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967816.970",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967817.190",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967817.406",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967817.626",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967817.842",
+                    "sending_rate": "9.73"
+                },
+                {
+                    "timestamp": "1744967818.060",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967818.276",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967818.544",
+                    "sending_rate": "7.81"
+                },
+                {
+                    "timestamp": "1744967818.763",
+                    "sending_rate": "9.01"
+                },
+                {
+                    "timestamp": "1744967818.982",
+                    "sending_rate": "9.57"
+                },
+                {
+                    "timestamp": "1744967819.199",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967819.418",
+                    "sending_rate": "9.57"
+                },
+                {
+                    "timestamp": "1744967819.635",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967819.853",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967820.074",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967820.289",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967820.508",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967820.726",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967820.944",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967821.162",
+                    "sending_rate": "9.02"
+                },
+                {
+                    "timestamp": "1744967821.383",
+                    "sending_rate": "9.49"
+                },
+                {
+                    "timestamp": "1744967821.599",
+                    "sending_rate": "9.68"
+                },
+                {
+                    "timestamp": "1744967821.818",
+                    "sending_rate": "9.60"
+                },
+                {
+                    "timestamp": "1744967822.035",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967822.254",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967822.472",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967822.690",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967822.908",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967823.126",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967823.344",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967823.582",
+                    "sending_rate": "8.26"
+                },
+                {
+                    "timestamp": "1744967823.829",
+                    "sending_rate": "8.49"
+                },
+                {
+                    "timestamp": "1744967824.046",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967824.262",
+                    "sending_rate": "9.71"
+                },
+                {
+                    "timestamp": "1744967824.482",
+                    "sending_rate": "9.50"
+                },
+                {
+                    "timestamp": "1744967824.700",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967824.919",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967825.142",
+                    "sending_rate": "9.39"
+                },
+                {
+                    "timestamp": "1744967825.355",
+                    "sending_rate": "9.85"
+                },
+                {
+                    "timestamp": "1744967825.573",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967825.791",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967826.007",
+                    "sending_rate": "9.11"
+                },
+                {
+                    "timestamp": "1744967826.227",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967826.445",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967826.663",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967826.882",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967827.100",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967827.318",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967827.536",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967827.752",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967827.972",
+                    "sending_rate": "9.52"
+                },
+                {
+                    "timestamp": "1744967828.190",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967828.406",
+                    "sending_rate": "9.12"
+                },
+                {
+                    "timestamp": "1744967828.624",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967828.884",
+                    "sending_rate": "8.06"
+                },
+                {
+                    "timestamp": "1744967829.108",
+                    "sending_rate": "9.36"
+                },
+                {
+                    "timestamp": "1744967829.326",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967829.547",
+                    "sending_rate": "9.52"
+                },
+                {
+                    "timestamp": "1744967829.765",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967829.984",
+                    "sending_rate": "9.56"
+                },
+                {
+                    "timestamp": "1744967830.201",
+                    "sending_rate": "9.67"
+                },
+                {
+                    "timestamp": "1744967830.417",
+                    "sending_rate": "9.71"
+                },
+                {
+                    "timestamp": "1744967830.638",
+                    "sending_rate": "9.50"
+                },
+                {
+                    "timestamp": "1744967830.853",
+                    "sending_rate": "9.14"
+                },
+                {
+                    "timestamp": "1744967831.071",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967831.289",
+                    "sending_rate": "9.60"
+                },
+                {
+                    "timestamp": "1744967831.508",
+                    "sending_rate": "9.60"
+                },
+                {
+                    "timestamp": "1744967831.725",
+                    "sending_rate": "9.65"
+                },
+                {
+                    "timestamp": "1744967831.998",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967832.216",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967832.435",
+                    "sending_rate": "9.59"
+                },
+                {
+                    "timestamp": "1744967832.655",
+                    "sending_rate": "9.54"
+                },
+                {
+                    "timestamp": "1744967832.873",
+                    "sending_rate": "9.60"
+                },
+                {
+                    "timestamp": "1744967833.088",
+                    "sending_rate": "9.13"
+                },
+                {
+                    "timestamp": "1744967833.307",
+                    "sending_rate": "9.60"
+                },
+                {
+                    "timestamp": "1744967833.525",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967833.745",
+                    "sending_rate": "9.51"
+                },
+                {
+                    "timestamp": "1744967833.976",
+                    "sending_rate": "9.08"
+                },
+                {
+                    "timestamp": "1744967834.239",
+                    "sending_rate": "7.98"
+                },
+                {
+                    "timestamp": "1744967834.457",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967834.675",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967834.894",
+                    "sending_rate": "9.59"
+                },
+                {
+                    "timestamp": "1744967835.112",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967835.329",
+                    "sending_rate": "9.64"
+                },
+                {
+                    "timestamp": "1744967835.548",
+                    "sending_rate": "9.00"
+                },
+                {
+                    "timestamp": "1744967835.766",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967835.984",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967836.202",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1744967836.422",
+                    "sending_rate": "9.54"
+                },
+                {
+                    "timestamp": "1744967836.639",
+                    "sending_rate": "9.63"
+                },
+                {
+                    "timestamp": "1744967836.857",
+                    "sending_rate": "9.63"
+                },
+                {
+                    "timestamp": "1744967837.073",
+                    "sending_rate": "9.72"
+                },
+                {
+                    "timestamp": "1744967837.291",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967837.513",
+                    "sending_rate": "9.46"
+                },
+                {
+                    "timestamp": "1744967837.731",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1744967837.949",
+                    "sending_rate": "9.01"
+                },
+                {
+                    "timestamp": "1744967838.166",
+                    "sending_rate": "9.67"
+                }
+            ]
+        }
+    ]
+}

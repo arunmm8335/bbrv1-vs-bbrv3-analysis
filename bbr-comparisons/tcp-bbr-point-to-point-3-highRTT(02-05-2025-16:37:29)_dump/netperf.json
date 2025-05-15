@@ -1,0 +1,82 @@
+{
+    "h1": [
+        {
+            "192.168.3.2:44609": [
+                {
+                    "meta": true,
+                    "start_time": "0",
+                    "stop_time": "200",
+                    "destination_node": "h2"
+                },
+                {
+                    "timestamp": "1746184050.073",
+                    "sending_rate": "5.57"
+                },
+                {
+                    "timestamp": "1746184050.291",
+                    "sending_rate": "9.65"
+                },
+                {
+                    "timestamp": "1746184050.519",
+                    "sending_rate": "36.07"
+                },
+                {
+                    "timestamp": "1746184051.074",
+                    "sending_rate": "10.39"
+                },
+                {
+                    "timestamp": "1746184051.635",
+                    "sending_rate": "12.85"
+                },
+                {
+                    "timestamp": "1746184052.290",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1746184052.945",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1746184053.600",
+                    "sending_rate": "9.61"
+                },
+                {
+                    "timestamp": "1746184054.277",
+                    "sending_rate": "9.09"
+                },
+                {
+                    "timestamp": "1746184054.916",
+                    "sending_rate": "9.85"
+                },
+                {
+                    "timestamp": "1746184055.561",
+                    "sending_rate": "9.75"
+                },
+                {
+                    "timestamp": "1746184056.255",
+                    "sending_rate": "8.87"
+                },
+                {
+                    "timestamp": "1746184057.025",
+                    "sending_rate": "8.17"
+                },
+                {
+                    "timestamp": "1746184057.682",
+                    "sending_rate": "9.58"
+                },
+                {
+                    "timestamp": "1746184058.336",
+                    "sending_rate": "9.62"
+                },
+                {
+                    "timestamp": "1746184058.991",
+                    "sending_rate": "9.42"
+                },
+                {
+                    "timestamp": "1746184059.662",
+                    "sending_rate": "9.37"
+                }
+            ]
+        }
+    ]
+}
