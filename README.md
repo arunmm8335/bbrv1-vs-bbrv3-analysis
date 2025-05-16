@@ -106,7 +106,9 @@ Navigate to the NEST examples:
 cd ~/nest/examples/tcp
 ```
 You'll find example files like:
+```bash
     tcp-bbr-point-to-point-3.py – Simple point-to-point test using BBR congestion control.
+```
 
 You can copy and modify this script to test different:
    1. Topologies (star, dumbbell, etc.)
