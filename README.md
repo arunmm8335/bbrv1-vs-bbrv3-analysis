@@ -121,3 +121,13 @@ Use the following command format to run any experiment:
 ```bash
 sudo PYTHONPATH=./venv/bin/python3 examples/tcp/tcp-bbr-point-to-point-3.py
 ```
+
+### 3. Output & Logs
+The script will run the experiment using netperf and ss.
+It generates output .json files with detailed statistics and plots.
+You’ll see a progress bar and then output like:
+
+```markdown
+[INFO]: Parsing statistics...
+[INFO]: Plotting results...
+```
