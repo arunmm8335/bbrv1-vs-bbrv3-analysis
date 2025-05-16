@@ -99,7 +99,7 @@ source nest_env.sh
 
 Once NEST is installed and activated, you can run experiments using example scripts or your own custom topologies.
 
-### 1. 📂 Example Directory Structure
+### 1. Example Directory Structure
 
 Navigate to the NEST examples:
 ```bash
@@ -116,7 +116,7 @@ You can copy and modify this script to test different:
    3. Congestion control algorithms (BBRv1, BBRv3, CUBIC, etc.)
    4. Flow patterns (single/multiple flows, UDP/TCP mix)
 
-### 2. ⚙️ Running an Experiment
+### 2. Running an Experiment
 Use the following command format to run any experiment:
 ```bash
 sudo PYTHONPATH=./venv/bin/python3 examples/tcp/tcp-bbr-point-to-point-3.py
