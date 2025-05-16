@@ -159,7 +159,7 @@ sudo PYTHONPATH=./venv/bin/python3 examples/tcp/tcp-bbr-point-to-point-3.py
 1. BBR v1 adapts slowly to sudden bandwidth drops (common in 4G/5G or Wi-Fi handoffs).
 2. BBR v3 improves bandwidth responsiveness, especially when bandwidth contracts quickly.
 
--------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##  Summary Table: BBRv3 vs BBRv1
 
@@ -172,9 +172,13 @@ sudo PYTHONPATH=./venv/bin/python3 examples/tcp/tcp-bbr-point-to-point-3.py
 | Long-lived transfers           | Oscillatory throughput        | Smooth, consistent delivery            |
 | Encrypted/short flows          | Aggressive probing            | Controlled startup, lower jitter       |
 
-## ✅ Conclusion
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+##  Conclusion
 
 BBRv3 demonstrates clear improvements over BBRv1 across several real-world networking scenarios. It offers better bandwidth estimation under high loss, maintains lower latency in high RTT/bufferbloat conditions, and shows enhanced fairness in multi-flow environments. BBRv3 is also more adaptive in dynamic network conditions, making it suitable for mobile and modern Internet applications. These improvements contribute to smoother and more efficient TCP performance overall.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📚 References
 
