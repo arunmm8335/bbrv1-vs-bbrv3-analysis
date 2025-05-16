@@ -162,3 +162,14 @@ Here are key network conditions and use-cases where BBR version 3 shows better p
 
 1. BBR v1 adapts slowly to sudden bandwidth drops (common in 4G/5G or Wi-Fi handoffs).
 2. BBR v3 improves bandwidth responsiveness, especially when bandwidth contracts quickly.
+
+## 🏁 Summary Table: BBRv3 vs BBRv1
+
+| **Scenario**                    | **BBRv1 Behavior**            | **BBRv3 Improvement**                  |
+|--------------------------------|-------------------------------|----------------------------------------|
+| High packet loss               | Overestimates bandwidth       | Adapts better, fewer losses            |
+| High RTT / bufferbloat         | Queues up, causes latency     | Maintains low latency                  |
+| Competing flows (RTT fairness) | Favors low RTT flows          | Fairer bandwidth sharing               |
+| Mobile / dynamic networks      | Slow to adapt                 | Reacts faster to bandwidth changes     |
+| Long-lived transfers           | Oscillatory throughput        | Smooth, consistent delivery            |
+| Encrypted/short flows          | Aggressive probing            | Controlled startup, lower jitter       |
