@@ -47,3 +47,15 @@ sudo make modules_install
 sudo make install
 sudo update-grub
 ```
+
+### 4. Reboot & Activate BBRv3
+```bash
+sudo reboot
+uname -r
+```
+
+Then activate BBRv3:
+```bash
+sudo sysctl -w net.ipv4.tcp_congestion_control=bbr
+sudo sysctl -w net.core.default_qdisc=fq
+```
