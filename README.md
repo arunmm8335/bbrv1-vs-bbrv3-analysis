@@ -92,3 +92,10 @@ sudo su
 cd nest
 source nest_env.sh
 ```
+
+--------------------------------
+
+## 🚀 Running TCP BBR Experiments Using NEST
+
+Once NEST is installed and activated, you can run experiments using example scripts or your own custom topologies.
+
