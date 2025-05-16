@@ -71,9 +71,16 @@ git clone https://gitlab.com/nitk-nest/nest.git
 cd nest
 ```
 
-### 2. Install Requirements and NEST
+### 2. Install NEST (Two Methods)
+
+You can install NEST using either of the following:
+🔹 Method A: Using install.sh
 ```bash
 sudo ./install.sh
+```
+🔹 Method B: Using setup.py (Alternative)
+```bash
+sudo python3 setup.py install
 ```
 
 ### 3. Activate NEST Environment
