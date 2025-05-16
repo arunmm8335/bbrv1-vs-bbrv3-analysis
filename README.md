@@ -131,5 +131,5 @@ sudo PYTHONPATH=./venv/bin/python3 examples/tcp/tcp-bbr-point-to-point-3.py
 [INFO]: Parsing statistics...
 [INFO]: Plotting results...
 ```
-
-![alt text](image.png)
+----------------------------------------------------
+### 📊 Throughput Evaluation using iperf3
