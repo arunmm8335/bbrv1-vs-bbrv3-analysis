@@ -135,10 +135,10 @@ sudo PYTHONPATH=./venv/bin/python3 examples/tcp/tcp-bbr-point-to-point-3.py
 ## 📊 Throughput Evaluation using iperf3
 
 ### 1. BBRv1 
-![alt text](<Screenshot from 2025-04-06 16-06-45.png>) 
+![alt text](<iperf_bbrv1.png>)
 
 ### 2. BBRv3
-![alt text](<Screenshot from 2025-04-18 01-39-47.png>)
+![alt text](<iperf_bbrv3.png>)
 
 ----------------------------------------------------
 
