@@ -107,7 +107,7 @@ cd ~/nest/examples/tcp
 ```
 You'll find example files like:
 ```bash
-    tcp-bbr-point-to-point-3.py – Simple point-to-point test using BBR congestion control.
+tcp-bbr-point-to-point-3.py – Simple point-to-point test using BBR congestion control.
 ```
 
 You can copy and modify this script to test different:
@@ -115,3 +115,9 @@ You can copy and modify this script to test different:
    2. Parameters (bandwidth, delay, queue size)
    3. Congestion control algorithms (BBRv1, BBRv3, CUBIC, etc.)
    4. Flow patterns (single/multiple flows, UDP/TCP mix)
+
+### 2. ⚙️ Running an Experiment
+Use the following command format to run any experiment:
+```bash
+sudo PYTHONPATH=./venv/bin/python3 examples/tcp/tcp-bbr-point-to-point-3.py
+```
