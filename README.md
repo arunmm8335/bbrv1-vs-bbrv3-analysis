@@ -1,4 +1,4 @@
-# 📡 TCP BBRv1 vs BBRv3 Congestion Control Analysis using NEST
+#  TCP BBRv1 vs BBRv3 Congestion Control Analysis using NEST
 
 This project compares the performance of **TCP BBRv1** and **TCP BBRv3** congestion control algorithms using [Google's official BBR implementation](https://github.com/google/bbr/blob/v3/README.md) and the [NEST framework](https://gitlab.com/nitk-nest/nest).
 
@@ -61,7 +61,7 @@ sudo sysctl -w net.core.default_qdisc=fq
 ```
 ------------------------------------------------------------
 
-## 📦 NEST Installation (from GitLab)
+##  NEST Installation (from GitLab)
 
 NEST (Network Emulation & Simulation Tool) is used to test congestion control algorithms in emulated networks.
 
