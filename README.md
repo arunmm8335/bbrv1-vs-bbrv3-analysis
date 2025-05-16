@@ -7,10 +7,10 @@ This project compares the performance of **TCP BBRv1** and **TCP BBRv3** congest
 ## 📁 Project Structure
 ```bash
 bbr-projects/
-├── bbr1_experiments/ # BBRv1-based test scripts
-├── bbrv3_experiements/ # BBRv3-based test scripts
-├── bbr_testcases/ # NEST-compatible topologies and flows
-├── bbr-comparisons/ # Analysis scripts and output plots
+├── bbr1_experiments/ # BBRv1-based test plots
+├── bbrv3_experiements/ # BBRv3-based test plots
+├── bbr_testcases/ # NEST-compatible topologies and flows (scripts)
+├── bbr-comparisons/ # Analysis and output plots
 └── README.md # Setup and usage documentation
 ```
 
@@ -63,3 +63,22 @@ sudo sysctl -w net.core.default_qdisc=fq
 ## 📦 NEST Installation (from GitLab)
 
 NEST (Network Emulation & Simulation Tool) is used to test congestion control algorithms in emulated networks.
+
+### 1. Clone NEST
+
+```bash
+git clone https://gitlab.com/nitk-nest/nest.git
+cd nest
+```
+
+### 2. Install Requirements and NEST
+```bash
+sudo ./install.sh
+```
+
+### 3. Activate NEST Environment
+```bash
+sudo su
+cd nest
+source nest_env.sh
+```
