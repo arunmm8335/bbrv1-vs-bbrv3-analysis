@@ -99,3 +99,22 @@ source nest_env.sh
 
 Once NEST is installed and activated, you can run experiments using example scripts or your own custom topologies.
 
+### 1. 📂 Example Directory Structure
+
+Navigate to the NEST examples:
+```bash
+cd ~/nest/examples/tcp
+```
+You'll find example files like:
+
+    tcp-bbr-point-to-point-3.py – Simple point-to-point test using BBR congestion control.
+
+You can copy and modify this script to test different:
+
+    Topologies (star, dumbbell, etc.)
+
+    Parameters (bandwidth, delay, queue size)
+
+    Congestion control algorithms (BBRv1, BBRv3, CUBIC, etc.)
+
+    Flow patterns (single/multiple flows, UDP/TCP mix)
