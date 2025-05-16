@@ -144,3 +144,11 @@ sudo PYTHONPATH=./venv/bin/python3 examples/tcp/tcp-bbr-point-to-point-3.py
 
 ## ✅ Cases Where BBRv3 Outperforms BBRv1
 
+Here are key network conditions and use-cases where BBR version 3 shows better performance than version 1:
+
+----------------------------------------------------------------------------------------------------------
+
+### 1. 🧭 High Packet Loss Networks
+
+    BBR v1 tends to be too optimistic in the presence of random or bursty packet losses (e.g., Wi-Fi, cellular).
+    BBR v3 has improved loss tolerance and is less aggressive when losses are detected, reducing retransmissions and improving stability.
