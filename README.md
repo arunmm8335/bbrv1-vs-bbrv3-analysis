@@ -74,6 +74,8 @@ cd nest
 ### 2. Install NEST (Two Methods)
 
 You can install NEST using either of the following:
+
+---
 🔹 Method A: Using install.sh
 ```bash
 sudo ./install.sh
