@@ -139,3 +139,8 @@ sudo PYTHONPATH=./venv/bin/python3 examples/tcp/tcp-bbr-point-to-point-3.py
 
 ### 2. BBRv3
 ![alt text](<Screenshot from 2025-04-18 01-39-47.png>)
+
+----------------------------------------------------
+
+## ✅ Cases Where BBRv3 Outperforms BBRv1
+
