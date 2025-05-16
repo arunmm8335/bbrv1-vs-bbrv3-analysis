@@ -171,3 +171,15 @@ sudo PYTHONPATH=./venv/bin/python3 examples/tcp/tcp-bbr-point-to-point-3.py
 | Mobile / dynamic networks      | Slow to adapt                 | Reacts faster to bandwidth changes     |
 | Long-lived transfers           | Oscillatory throughput        | Smooth, consistent delivery            |
 | Encrypted/short flows          | Aggressive probing            | Controlled startup, lower jitter       |
+
+## ✅ Conclusion
+
+BBRv3 demonstrates clear improvements over BBRv1 across several real-world networking scenarios. It offers better bandwidth estimation under high loss, maintains lower latency in high RTT/bufferbloat conditions, and shows enhanced fairness in multi-flow environments. BBRv3 is also more adaptive in dynamic network conditions, making it suitable for mobile and modern Internet applications. These improvements contribute to smoother and more efficient TCP performance overall.
+
+## 📚 References
+
+- [BBR Congestion Control - Google Open Source](https://opensource.googleblog.com/2016/09/tcp-bbr-congestion-control-comes-to.html)
+- Neal Cardwell, Yuchung Cheng, et al. *BBR: Congestion-Based Congestion Control*, ACM Queue, 2017.
+- [BBRv2/Bbr3 Discussion on Linux Kernel Mailing List](https://lore.kernel.org/netdev/)
+- [BBRv3 GitHub and Kernel Patch Discussions](https://github.com/google/bbr)
+- iperf3: [https://github.com/esnet/iperf](https://github.com/esnet/iperf)
