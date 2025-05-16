@@ -59,3 +59,7 @@ Then activate BBRv3:
 sudo sysctl -w net.ipv4.tcp_congestion_control=bbr
 sudo sysctl -w net.core.default_qdisc=fq
 ```
+
+## 📦 NEST Installation (from GitLab)
+
+NEST (Network Emulation & Simulation Tool) is used to test congestion control algorithms in emulated networks.
