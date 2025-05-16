@@ -150,5 +150,5 @@ Here are key network conditions and use-cases where BBR version 3 shows better p
 
 ### 1. 🧭 High Packet Loss Networks
 
-    BBR v1 tends to be too optimistic in the presence of random or bursty packet losses (e.g., Wi-Fi, cellular).
-    BBR v3 has improved loss tolerance and is less aggressive when losses are detected, reducing retransmissions and improving stability.
+1. BBR v1 tends to be too optimistic in the presence of random or bursty packet losses (e.g., Wi-Fi, cellular).
+2. BBR v3 has improved loss tolerance and is less aggressive when losses are detected, reducing retransmissions and improving stability.
